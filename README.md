@@ -1,8 +1,7 @@
-# odin-recipies
+# Odin Recipies
 
-This project will be following along with Odin's
+This project follows along with Odin's
 tutorial on HTML.
 
-This will be used to make a simple website with
-multiple pages representing different recipies,
-with one recepie per page.
+This will be used to practice making a simple website with links
+to multiple pages.
